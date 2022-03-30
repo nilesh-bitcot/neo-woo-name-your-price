@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name:       Neo Woocommerce User Price
- * Description:       User based price for product
+ * Plugin Name:       Neo Woocommerce Your Custom Fee
+ * Description:       User based user entered custom fee, cost of product will be changed.
  * Version:           1.0.0
  * Requires at least: 5.2
  * Tested up to: 	  5.9.2
