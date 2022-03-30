@@ -1,0 +1,32 @@
+@import url(fontawesome-all.min.css);
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic|Roboto+Slab:400,700");
+
+form.cart .misha-before-add-to-cart-field label {
+    text-transform: capitalize;
+}
+
+.woocommerce div.product form.cart div.quantity {
+    clear: both !important;
+}
+
+form.cart .misha-before-add-to-cart-field label {
+    text-transform: capitalize;
+    width: 100%;
+    display: inline-block;
+}
+
+table.ui-datepicker-calendar {
+    margin: 1em auto !important;
+}
+
+table.ui-datepicker-calendar td {
+    padding: 2px !important;
+}
+
+div#ui-datepicker-div {
+    z-index: 5;
+}
+
+.ui-datepicker th {
+    padding: .3em .3em !important;
+}
