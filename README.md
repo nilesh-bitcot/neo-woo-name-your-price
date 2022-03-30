@@ -1,13 +1,13 @@
-# neo-woo-name-your-price
+# Neo Woo Your Custom Fee
 Woocommerce adon : to give ability to a user to add custom fee for product
 Means that custom fee amount will be added to the actual cost of the product.
 
-# How to use
+## How to use
 Go to product edit page and enable feature (in product general data tab).
 Add maximum and minimum price
 Thats it.
 
-# Available filters
+## Available filters
 you can update some of the labels on front end using the following filters.
 
 ```php
